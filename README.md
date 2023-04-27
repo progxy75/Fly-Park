@@ -1,11 +1,14 @@
-![Thumbnail video tutorial](https://user-images.githubusercontent.com/6551176/233513056-525d827e-e8fa-4b57-901a-b05175505a55.jpg)
+### `npm i`,
+ Install the above cmd, in the terminal of your IDE, I use VS-CODE
+ 
+### `npm run dev`
+ Run above cmd, to execute the program on your browser.
+ 
+ ### `npm build`
+ To start build production, for deployment.
+ 
+ ![fly-park](https://user-images.githubusercontent.com/83406066/234727445-b16ecba3-e8b4-4760-a544-e7be09c62eb6.png)
 
-[Live Demo](https://r3f-wawatmos-final.vercel.app/)
 
-[Video tutorial](https://youtu.be/8r8rzp8t2aM)
+Uploading Fly-Park Intro - Google Chrome 2023-04-27 05-25-10 (1).mp4…
 
-[Starter pack](https://github.com/wass08/r3f-wawatmos-starter)
-
-### 3D Model credits
-
-Airplane by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/8VysVKMXN2J)
